@@ -3,6 +3,8 @@ Welcome to my GitHub page for my MAGD class assignments, here I will upload file
 
 Here are some links to five of the assignments I worked on for this class:
 
+Lab 1: https://github.com/BrettDragon/MAGD-150-Assignments/blob/gh-pages/f21magd150lab10_Daniels-1.zip
+
 Lab 3: https://github.com/BrettDragon/MAGD-150-Assignments/blob/gh-pages/f21magd150lab03_Daniels.%20(1).zip
 
 Lab 9: https://github.com/BrettDragon/MAGD-150-Assignments/blob/gh-pages/f21magd150lab09_Daniels%20(1).zip
